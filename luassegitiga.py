@@ -6,4 +6,4 @@ alas = float(input("masukkan alas: "))
 tinggi = float(input("masukkan tinggi"))
 luas = luas_segi3(alas, tinggi)
 print("luas segitiga : %3f" %(luas))
-luas = luas_segi4(alas,tinggi)
+luas = luas_segi4(alas,tinggi);
